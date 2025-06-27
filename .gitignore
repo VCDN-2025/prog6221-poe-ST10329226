@@ -1,0 +1,51 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.psess
+*.vssscc
+*.vsdps
+*.local
+*.resharper
+*.resharper.user
+*.DotSettings.user
+*.ncrunchproj
+*.webtest
+*.coverage
+*.dbmdl
+*.dbproj
+*.sqlproj
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.log
+*.aps
+*.pch
+*.ipch
+*.tlog
+*.tmp
+*.bak
+*.userprefs
+
+# NuGet packages
+packages/
+*.nupkg
+!packages/**/build/
+!packages/**/lib/
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
